@@ -124,20 +124,19 @@ Performance Comparison
 ```text
 Timing-and-Area-Trade-off-Analysis-of-Adder-Architectures
 │
-├── LICENSE
-├── README.md
-├── images/
-│   └── adder_architecture.svg
-│
+├── images
 ├── rtl/
-│
-├── tb/
-│
-├── synthesis/
 │
 ├── sta/
 │
-└── waveforms/
+├── synthesis/
+│
+├── tb/
+│
+├── waveforms/
+├── LICENSE
+├── README.md
+
 ```
 
 ---
