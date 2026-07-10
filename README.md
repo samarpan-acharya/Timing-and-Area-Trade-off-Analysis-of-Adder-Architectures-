@@ -6,7 +6,7 @@ This project implements and benchmarks **8-bit** and **16-bit** Ripple Carry Add
 
 # Top-Level Architecture
 
-![Adder Architecture](images/adder_architecture.svg)
+![Adder Architecture](images/csa16_block_diagram_clean.svg)
 
 ---
 
@@ -60,18 +60,6 @@ Performance Comparison
 ---
 
 # Simulation Results
-
-### Ripple Carry Adder
-
-![Ripple Carry Adder](waveforms/rca_waveform.png)
-
----
-
-### Carry Lookahead Adder
-
-![Carry Lookahead Adder](waveforms/cla_waveform.png)
-
----
 
 ### Carry Select Adder
 
