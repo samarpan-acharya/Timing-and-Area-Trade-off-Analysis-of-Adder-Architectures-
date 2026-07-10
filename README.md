@@ -62,6 +62,11 @@ Performance Comparison
 # Simulation Results
 
 ### Carry Select Adder
+### Carry Select Adder
+### Carry Select Adder
+### Carry Select Adder
+### Carry Select Adder
+### Carry Select Adder
 
 ![Carry Select Adder](waveforms/csla_waveform.png)
 
