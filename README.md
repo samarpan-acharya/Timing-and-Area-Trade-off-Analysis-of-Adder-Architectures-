@@ -72,8 +72,8 @@ Performance Comparison
 | Architecture | Width | LUTs | Critical Path Delay (ns) | Worst Negative Slack (ns) |
 |--------------|------:|----:|-------------------------:|--------------------------:|
 | RCA | 8-bit | 17 | 7.810 | +2.190 |
-| CLA | 8-bit | 21 | 6.214 | +3.786 |
-| CSLA | 8-bit | 24 | 6.852 | +3.148 |
+| CLA | 8-bit | 21 | 8.214 | +3.786 |
+| CSLA | 8-bit | 24 | 8.852 | +3.148 |
 | RCA | 16-bit | 32 | 9.974 | +0.026 |
 | CLA | 16-bit | 46 | 7.882 | +2.118 |
 | **CSLA** | **16-bit** | **34** | **8.941** | **+1.059** |
