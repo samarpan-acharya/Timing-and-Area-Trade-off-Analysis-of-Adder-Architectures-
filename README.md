@@ -59,7 +59,7 @@ Functional verification of the 8-bit Ripple Carry Adder.
 
 ### Ripple Carry Adder (16-bit)
 
-Functional verification of the 16-bit Ripple Carry Adder.
+
 
 ![RCA 16-bit](waveforms/rca16bit.png)
 
