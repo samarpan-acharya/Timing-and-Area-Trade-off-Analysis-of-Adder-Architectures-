@@ -31,7 +31,7 @@ This project presents structural RTL implementations of six adder configurations
 | **Carry Lookahead Adder (CLA)** | Uses Generate and Propagate logic to compute carries in parallel, significantly reducing propagation delay. |
 | **Carry Select Adder (CSLA)** | Computes addition simultaneously for both carry possibilities and selects the correct output through multiplexers, improving overall performance. |
 
-## Design Flow
+## 
 
 ```text
 RTL Design
