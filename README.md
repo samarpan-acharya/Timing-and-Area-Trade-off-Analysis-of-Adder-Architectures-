@@ -1,4 +1,4 @@
-# Timing  Trade-off Analysis of Adder Architectures
+# Timing and Area Trade-off Analysis of Adder Architectures
 
 This project implements and benchmarks **8-bit** and **16-bit** Ripple Carry Adders (RCA), Carry Lookahead Adders (CLA), and Carry Select Adders (CSLA) using synthesizable Verilog HDL. The designs are evaluated through logic synthesis and Static Timing Analysis (STA) to compare propagation delay, logic utilization, and overall area–performance trade-offs under identical FPGA implementation constraints.
 
