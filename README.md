@@ -94,7 +94,7 @@ Functional verification of the 16-bit Carry Select Adder.
 | CLA | 8-bit | 21 | 8.214 | +3.786 |
 | CSLA | 8-bit | 24 | 7.852 | +3.148 |
 | RCA | 16-bit | 32 | 9.974 | +0.026 |
-| CLA | 16-bit | 46 | 6.882 | +2.118 |
+| CLA | 16-bit | 46 | 7.882 | +2.118 |
 | **CSLA** | **16-bit** | **34** | **8.941** | **+1.059** |
 
 ## Key Observations
